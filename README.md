@@ -164,7 +164,6 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 </p>
 
----
 
 <div align="center">
 
