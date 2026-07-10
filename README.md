@@ -2,13 +2,12 @@
 
 # Hi, I'm Deepak Kumar B 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Python+%7C+FastAPI;Building+scalable%2C+production-ready+applications;Full+Stack+Developer%2F+Software+Engineer%2F+AI-powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full%20Stack%20Developer;Software%20Engineer;Building%20scalable%2C%20production-ready%20applications;React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI" alt="Typing SVG" />
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 MCA, St Joseph's University &nbsp;|&nbsp; 🟢 Available to join in 15 days
+📍 Bengaluru, India &nbsp;|&nbsp; 🎓 MCA, St Joseph's University &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-b-dee412)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:deepakkumarr040302@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://)
 
 </div>
 
@@ -16,7 +15,7 @@
 
 ### 🧭 About Me
 
-I'm a Full Stack Developer who enjoys building products from idea to deployment. I primarily work with React, Next.js, FastAPI, and Python to create scalable web applications. I enjoy solving backend problems, designing APIs, and building clean user experiences. Alongside software engineering, I've worked on AI-powered computer vision projects and published research in deep learning and blockchain.
+I'm a Full Stack Developer passionate about building scalable, production-ready applications from idea to deployment. I primarily work with React, Next.js, FastAPI, and Python to create scalable web applications. I enjoy solving backend problems, designing APIs, and building clean user experiences. Alongside software engineering, I've worked on AI-powered computer vision projects and published research in deep learning and blockchain.
 
 ---
 
@@ -24,7 +23,7 @@ I'm a Full Stack Developer who enjoys building products from idea to deployment.
 
 **Languages**<br>
 
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" /> <br>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,c&theme=dark" /> <br>
 
 
 **Frontend**<br>
@@ -34,7 +33,7 @@ I'm a Full Stack Developer who enjoys building products from idea to deployment.
 **Backend & APIs**<br>
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" /><br>
-`RESTful APIs` `Authentication` `RBAC`
+`RESTful APIs` `Authentication` `RBAC` `JWT`
 
 **Databases**<br>
 
@@ -58,8 +57,23 @@ I'm a Full Stack Developer who enjoys building products from idea to deployment.
 **What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI-powered application integration · Agile feature delivery
 
 ---
+## 💼 What I'm Building
+
+Here are a few projects that demonstrate my experience across full stack development, backend engineering, and AI-powered applications.
+
 
 ### 📌 Featured Projects
+
+⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
+
+
+Full-stack SaaS "Soul Relationship Management" platform for churches - member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
+
+**Key highlight:** Implemented frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
+
+
+`Next.js` `React` `TypeScript` `FastAPI` `Xano` 
+
 
 🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**
 
@@ -71,15 +85,6 @@ AI-powered CCTV surveillance system that detects human presence during non-worki
 
 `Python` `Flask` `YOLO` `MobileNet-SSD` `OpenCV` `TensorFlow` `HTML` `CSS` `MySQL` `SMTP` `Twilio`
 
-⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
-
-
-Full-stack SaaS "Soul Relationship Management" platform for churches - member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
-
-**Key highlight:** Implemented frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
-
-
-`Next.js` `React` `TypeScript` `FastAPI` `Xano` 
 
 🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)**<br>
 
@@ -112,7 +117,7 @@ Official event website for a 500+ participant inter-collegiate fest.<br>
 
 **Full Stack Developer - 153 Comeback Inc, Bengaluru** <br> *(Oct 2025 – Jan 2026)*
 
-Built ChurchTalk, a SaaS "Soul Relationship Management" platform for churches, working across 5+ product modules in a 5–6 person Agile team - frontend in Next.js/React, backend APIs in FastAPI, database design, auth, and RBAC.
+Developed ChurchTalk, a SaaS Soul Relationship Management platform for churches, contributing across frontend, backend APIs, authentication, RBAC, and database design within a 5–6 member Agile team.
 
 **Signature moment:** Resolved complex frontend-backend synchronization issues by redesigning API response handling and modularizing backend services.
 
@@ -166,6 +171,6 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 <div align="center">
 
-📫 Thanks for stopping by! Feel free to connect if you'd like to discuss software engineering, full stack development, open-source collaboration, or exciting opportunities.
+📫 Thanks for visiting my profile. Feel free to connect if you'd like to collaborate on software engineering projects, discuss full stack development, or explore exciting opportunities.
 
 </div>
