@@ -13,23 +13,21 @@
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
 I'm a Full Stack Developer passionate about building scalable, production-ready applications from idea to deployment. I primarily work with React, Next.js, FastAPI, and Python to create scalable web applications. I enjoy solving backend problems, designing APIs, and building clean user experiences. Alongside software engineering, I've worked on AI-powered computer vision projects and published research in deep learning and blockchain.
 
 ---
 
-### 🚀 Currently Working On
+## 🚀 Currently Working On
 
-• Building scalable, production-ready full stack applications
-
-• Strengthening backend engineering and system design skills
-
-• Learning AI, machine learning, and computer vision to develop intelligent, real-world applications
+- Building scalable, production-ready full stack applications
+- Strengthening backend engineering and system design skills
+- Learning AI, machine learning, and computer vision to develop intelligent, real-world applications
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**<br>
 
@@ -67,22 +65,21 @@ I'm a Full Stack Developer passionate about building scalable, production-ready 
 **What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI-powered application integration · Agile feature delivery
 
 ---
-### 💼 What I'm Building
 
-Here are a few projects that demonstrate my experience across full stack development, backend engineering, and AI-powered applications.
+## 📌 Featured Projects
 
-
-### 📌 Featured Projects
+A selection of projects demonstrating my experience across full stack development, backend engineering, and AI-powered applications.
 
 ⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
 
 
 Full-stack SaaS "Soul Relationship Management" platform for churches - member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
 
-**Key highlight:** Implemented frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
+**Key highlight:** Contributed to frontend and backend development across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
 
 
 `Next.js` `React` `TypeScript` `FastAPI` `Xano` 
+
 
 
 🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**
@@ -90,20 +87,22 @@ Full-stack SaaS "Soul Relationship Management" platform for churches - member jo
 
 AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO and MobileNet-SSD, with a Flask dashboard for live monitoring and reporting.<br>
 
-**Key highlight:** Automated a fully manual monitoring process across 6 integrated modules -detection, real-time SMTP/Twilio alerting, and reporting - removing the need for round-the-clock human review.<br>
+**Key highlight:**Automated CCTV monitoring by integrating real-time human detection, email/SMS alerting, and reporting into a unified workflow - removing the need for round-the-clock human review.<br>
 
 
 `Python` `Flask` `YOLO` `MobileNet-SSD` `OpenCV` `TensorFlow` `HTML` `CSS` `MySQL` `SMTP` `Twilio`
+
 
 
 🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)**<br>
 
 
 Full-stack e-commerce platform for a craft supplies store - product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.<br>
-**Key highlight:** Designed the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.<br>
+**Key highlight:** Led frontend development while contributing to backend functionality in a two-person team.<br>
 
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL` `XAMPP`
+
 
 🎓 **[Campus PlaceVerse](https://github.com/Deepak-kumar-4/Campus-PlaceVerse)**<br>
 
@@ -114,6 +113,7 @@ Admin-driven student placement management system with CGPA tracking, company lis
 
 `VB.NET` `PHP` `MySQL` `Microsoft SQL Server`
 
+
 🌐 **[Syntaxia'24](https://nosfeeferatu.github.io/syntaxia-site/)**<br>
 Official event website for a 500+ participant inter-collegiate fest.<br>
 **Key highlight:** Led UI/UX and built individual event pages as part of a 4-member team.<br>
@@ -123,21 +123,21 @@ Official event website for a 500+ participant inter-collegiate fest.<br>
 
 ---
 
-### 📋 Experience Snapshot
+## 📋 Experience Snapshot
 
-**Full Stack Developer - 153 Comeback Inc, Bengaluru** <br> *(Oct 2025 – Jan 2026)*
+**Full Stack Developer – 153 Comeback Inc, Bengaluru** <br> *(Oct 2025 – Jan 2026)*
 
 Developed ChurchTalk, a SaaS Soul Relationship Management platform for churches, contributing across frontend, backend APIs, authentication, RBAC, and database design within a 5–6 member Agile team.
 
 **Signature moment:** Resolved complex frontend-backend synchronization issues by redesigning API response handling and modularizing backend services.
 
-**SDE Intern (Full Stack) - Abound Financial Technologies Inc, USA (Remote)** <br>*(Feb 2025 – May 2025)*
+**Software Development Engineer Intern (Full Stack) – Abound Financial Technologies Inc, USA (Remote)** <br>*(Feb 2025 – May 2025)*
 
 Built Faith Finance, a cross-platform personal finance management system for individuals -dashboards, authentication, protected routes, and full CRUD workflows using React.js and Next.js.
 
 ---
 
-### 📄 Research Publications
+## 📄 Research Publications
 
 
 - **Combating Adversarial Attacks on Deepfake Models: A Comprehensive Study on TAHN**
@@ -150,7 +150,7 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 ---
 
-### 🎓 Certifications
+## 🎓 Certifications
 
 - **SQL (Intermediate)** — HackerRank
 - **Frontend Development** — Besant Technologies
@@ -164,8 +164,12 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 </p>
 
+---
+
 <div align="center">
 
-📫 Thanks for visiting my profile. Feel free to connect if you'd like to collaborate on software engineering projects, discuss full stack development, or explore exciting opportunities.
+⭐ Thanks for visiting my profile!
+
+Feel free to connect if you'd like to collaborate on software engineering projects, discuss full stack development, or explore exciting opportunities.
 
 </div>
