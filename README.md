@@ -66,28 +66,30 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 
 
 AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO and MobileNet-SSD, with a Flask dashboard for live monitoring and reporting.<br>
-**Key highlight:** Automated a fully manual monitoring process across 6 integrated modules — detection, real-time SMTP/Twilio alerting, and reporting — removing the need for round-the-clock human review.<br>
+
+**Key highlight:** Automated a fully manual monitoring process across 6 integrated modules -detection, real-time SMTP/Twilio alerting, and reporting - removing the need for round-the-clock human review.<br>
 
 
-`Python` `YOLO` `OpenCV` `TensorFlow` `Flask` `MySQL`
+`Python` `Flask` `YOLO` `MobileNet-SSD` `OpenCV` `TensorFlow` `HTML` `CSS` `MySQL` `SMTP` `Twilio`
 
 ⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
 
 
-Full-stack SaaS "Soul Relationship Management" platform for churches — member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
+Full-stack SaaS "Soul Relationship Management" platform for churches - member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
+
 **Key highlight:** Owned frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
 
 
-`Next.js` `React` `TypeScript` `FastAPI` `Xano`
+`Next.js` `React` `TypeScript` `FastAPI` `Xano` 
 
 🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)**<br>
 
 
-Full-stack e-commerce platform for a craft supplies store — product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.<br>
+Full-stack e-commerce platform for a craft supplies store - product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.<br>
 **Key highlight:** Owned the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.<br>
 
 
-`PHP` `MySQL` `JavaScript` `Bootstrap`
+`HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL` `XAMPP`
 
 🎓 **[Campus PlaceVerse](https://github.com/Deepak-kumar-4/Campus-PlaceVerse)**<br>
 
@@ -96,11 +98,13 @@ Admin-driven student placement management system with CGPA tracking, company lis
 **Key highlight:** Owned backend logic (VB.NET + Microsoft SQL Server) in a 3-person team, covering auth, applications, and admin reporting.<br>
 
 
-`VB.NET` `Microsoft SQL Server`
+`VB.NET` `PHP` `MySQL` `Microsoft SQL Server`
 
 🌐 **[Syntaxia'24](https://nosfeeferatu.github.io/syntaxia-site/)**<br>
 Official event website for a 500+ participant inter-collegiate fest.<br>
 **Key highlight:** Led UI/UX and built individual event pages as part of a 4-member team.<br>
+
+
 `HTML` `CSS` `JavaScript`
 
 ---
