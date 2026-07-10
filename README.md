@@ -24,7 +24,10 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 🛠️ Tech Stack
 
 Languages<br>
-<img src="https://skillicons.dev/icons?i=py,js,java,cs,php,cpp,c&theme=dark" />
+
+
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" />
+
 
 `VB.NET`
 Frontend
