@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Deepak Kumar B 👋
-
+---
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Python+%7C+FastAPI;Building+scalable%2C+production-ready+applications;Open+to+Full+Stack+%2F+Software+%2F+AI/ML+roles" alt="Typing SVG" />
 
 📍 Bengaluru, India &nbsp;|&nbsp; 🎓 MCA, St Joseph's University &nbsp;|&nbsp; 🟢 Available to join in 15 days
