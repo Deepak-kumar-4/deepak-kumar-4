@@ -19,7 +19,7 @@ I'm a Full Stack Developer passionate about building scalable, production-ready 
 
 ---
 
-## 🚀 Currently Working On
+### 🚀 Currently Working On
 
 • Building scalable, production-ready full stack applications
 
@@ -67,7 +67,7 @@ I'm a Full Stack Developer passionate about building scalable, production-ready 
 **What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI-powered application integration · Agile feature delivery
 
 ---
-## 💼 What I'm Building
+### 💼 What I'm Building
 
 Here are a few projects that demonstrate my experience across full stack development, backend engineering, and AI-powered applications.
 
