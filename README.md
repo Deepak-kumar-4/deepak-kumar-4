@@ -29,7 +29,6 @@ Languages<br>
 <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" />
 
 
-`VB.NET`
 Frontend
 
 
@@ -42,22 +41,15 @@ Backend & APIs
 <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" />
 
 
-`RESTful APIs` `Authentication` `RBAC`
-
 Databases
 
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 
 
-`Microsoft SQL Server` `SQLite`
-
 AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-
-`OpenCV` `YOLO` `MobileNet-SSD`
 
 
 Tools & Platforms
@@ -66,7 +58,9 @@ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,aws,wordpress&theme=dark" />
 
 
-`Xano` `MS Office`
+Also working with
+
+`VB.NET` `RESTful APIs` `Authentication` `RBAC` `Microsoft SQL Server` `SQLite` `OpenCV` `YOLO` `MobileNet-SSD` `Xano` `MS Office`
 
 
 Practices
