@@ -25,7 +25,7 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 
 **Languages**<br>
 
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" /> <br>
 `VB.NET`
 
 **Frontend**<br>
