@@ -24,7 +24,7 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,java,cs,cpp,c,php,react,next,html,css,bootstrap,figma,fastapi,flask,dotnet,mysql,postgres,mongodb,docker,aws,git,wordpress,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c,react,next,html,css,bootstrap,fastapi,flask,dotnet,mysql,postgres,mongodb,docker,aws,git,wordpress,tensorflow,pytorch&theme=dark" />
 </p>
 Also working with: VB.NET SQLite Microsoft SQL Server OpenCV YOLO MobileNet-SSD Xano RESTful APIs Authentication RBAC
 
