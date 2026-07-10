@@ -112,13 +112,13 @@ Official event website for a 500+ participant inter-collegiate fest.<br>
 
 ### 📋 Experience Snapshot
 
-**Full Stack Developer - 153 Comeback Inc, Bengaluru** *(Oct 2025 – Jan 2026)*
+**Full Stack Developer - 153 Comeback Inc, Bengaluru** <br> *(Oct 2025 – Jan 2026)*
 
 Built ChurchTalk, a SaaS "Soul Relationship Management" platform for churches, working across 5+ product modules in a 5–6 person Agile team - frontend in Next.js/React, backend APIs in FastAPI, database design, auth, and RBAC.
 
 **Signature moment:** Diagnosed a recurring frontend-backend state sync bug causing UI inconsistencies, then resolved it by restructuring API response handling and modularizing backend logic into smaller service layers.
 
-**SDE Intern (Full Stack) - Abound Financial Technologies Inc, USA (Remote)** *(Feb 2025 – May 2025)*
+**SDE Intern (Full Stack) - Abound Financial Technologies Inc, USA (Remote)** <br>*(Feb 2025 – May 2025)*
 
 Built Faith Finance, a cross-platform personal finance management system for individuals -dashboards, authentication, protected routes, and full CRUD workflows using React.js and Next.js.
 
