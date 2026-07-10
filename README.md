@@ -65,8 +65,10 @@
 ### 📌 Featured Projects
 
 🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**<br>
+
 AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO and MobileNet-SSD, with a Flask dashboard for live monitoring and reporting.<br>
 **Key highlight:** Automated a fully manual monitoring process across 6 integrated modules — detection, real-time SMTP/Twilio alerting, and reporting — removing the need for round-the-clock human review.<br>
+
 `Python` `YOLO` `OpenCV` `TensorFlow` `Flask` `MySQL`
 
 ⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
