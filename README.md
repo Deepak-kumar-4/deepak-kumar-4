@@ -27,6 +27,7 @@ I'm a Full Stack Developer passionate about building scalable, production-ready 
 
 • Learning AI, machine learning, and computer vision to develop intelligent, real-world applications
 
+---
 
 🛠️ Tech Stack
 
