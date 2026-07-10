@@ -23,53 +23,33 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 
 🛠️ Tech Stack
 
-Languages<br>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" /><br>
+`VB.NET`
 
-
-<img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" />
-
-
-Frontend
-
-
+**Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap&theme=dark" />
 
+**Backend & APIs**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" /><br>
+`RESTful APIs` `Authentication` `RBAC`
 
-Backend & APIs
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /><br>
+`Microsoft SQL Server` `SQLite`
 
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br>
+`OpenCV` `YOLO` `MobileNet-SSD`
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" />
+**Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,aws,wordpress&theme=dark" /><br>
+`Xano` `MS Office`
 
-
-Databases
-
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-
-
-AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-
-
-Tools & Platforms
-
-
-<img src="https://skillicons.dev/icons?i=git,aws,wordpress&theme=dark" />
-
-
-Also working with
-
-`VB.NET` `RESTful APIs` `Authentication` `RBAC` `Microsoft SQL Server` `SQLite` `OpenCV` `YOLO` `MobileNet-SSD` `Xano` `MS Office`
-
-
-Practices
-
-
+**Practices**<br>
 `Agile/Scrum` `Sprint Planning` `Code Reviews` `Clean Code` `Problem Solving` `Technical Documentation`
 
-
-**What I do with them:** Full-stack web app development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Agile feature delivery
+**What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Building Machine Learning Models · Agile feature delivery
 
 ---
 
