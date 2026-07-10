@@ -29,25 +29,31 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 `VB.NET`
 
 **Frontend**<br>
+
 <img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap&theme=dark" />
 
 **Backend & APIs**<br>
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" /><br>
 `RESTful APIs` `Authentication` `RBAC`
 
 **Databases**<br>
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /><br>
 `Microsoft SQL Server` `SQLite`
 
 **AI / ML**<br>
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br>
 `OpenCV` `YOLO` `MobileNet-SSD`
 
 **Tools & Platforms**<br>
+
 <img src="https://skillicons.dev/icons?i=git,aws,wordpress&theme=dark" /><br>
 `Xano` `MS Office`
 
 **Practices**<br>
+
 `Agile/Scrum` `Sprint Planning` `Code Reviews` `Clean Code` `Problem Solving` `Technical Documentation`
 
 **What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Building Machine Learning Models · Agile feature delivery
