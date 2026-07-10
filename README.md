@@ -58,17 +58,47 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+**What I do with them:** Full-stack web app development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Agile feature delivery
+
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)** | AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO & MobileNet-SSD, with real-time SMTP/Twilio alerting | `Python` `YOLO` `OpenCV` `TensorFlow` `Flask` |
-| ⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)** | Full-stack SaaS "Soul Relationship Management" platform for churches — member journey tracking, automated follow-ups, ministry management, and admin analytics | `Next.js` `React` `TypeScript` `FastAPI` `Xano` |
-| 🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)** | Full-stack e-commerce platform for a craft supplies store — product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting | `PHP` `MySQL` `JavaScript` `Bootstrap` |
-| 🎓 **[Campus PlaceVerse](https://github.com/Deepak-kumar-4/Campus-PlaceVerse)** | Admin-driven student placement management system with CGPA tracking, company listings, and mock assessments | `VB.NET` `Microsoft SQL Server` |
-| 🌐 **[Syntaxia'24](https://nosfeeferatu.github.io/syntaxia-site/)** | Official event website for a 500+ participant inter-collegiate fest — led UI/UX design and built individual event pages as part of a 4-member team | `HTML` `CSS` `JavaScript` |
+🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**
+AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO and MobileNet-SSD, with a Flask dashboard for live monitoring and reporting.
+**Key highlight:** Automated a fully manual monitoring process across 6 integrated modules — detection, real-time SMTP/Twilio alerting, and reporting — removing the need for round-the-clock human review.
+`Python` `YOLO` `OpenCV` `TensorFlow` `Flask` `MySQL`
+
+⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**
+Full-stack SaaS "Soul Relationship Management" platform for churches — member journey tracking, automated follow-ups, ministry management, and admin analytics.
+**Key highlight:** Owned frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.
+`Next.js` `React` `TypeScript` `FastAPI` `Xano`
+
+🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)**
+Full-stack e-commerce platform for a craft supplies store — product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.
+**Key highlight:** Owned the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+🎓 **[Campus PlaceVerse](https://github.com/Deepak-kumar-4/Campus-PlaceVerse)**
+Admin-driven student placement management system with CGPA tracking, company listings, and mock assessments.
+**Key highlight:** Owned backend logic (VB.NET + Microsoft SQL Server) in a 3-person team, covering auth, applications, and admin reporting.
+`VB.NET` `Microsoft SQL Server`
+
+🌐 **[Syntaxia'24](https://nosfeeferatu.github.io/syntaxia-site/)**
+Official event website for a 500+ participant inter-collegiate fest.
+**Key highlight:** Led UI/UX and built individual event pages as part of a 4-member team.
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 📋 Experience Snapshot
+
+**Full Stack Developer — 153 Comeback Inc, Bengaluru** *(Oct 2025 – Jan 2026)*
+Built ChurchTalk, a SaaS "Soul Relationship Management" platform for churches, working across 5+ product modules in a 5–6 person Agile team — frontend in Next.js/React, backend APIs in FastAPI, database design, auth, and RBAC.
+**Signature moment:** Diagnosed a recurring frontend-backend state sync bug causing UI inconsistencies, then resolved it by restructuring API response handling and modularizing backend logic into smaller service layers.
+
+**SDE Intern (Full Stack) — Abound Financial Technologies Inc, USA (Remote)** *(Feb 2025 – May 2025)*
+Built Faith Finance, a cross-platform personal finance management system for church communities — dashboards, authentication, protected routes, and full CRUD workflows using React.js and Next.js.
 
 ---
 
@@ -76,6 +106,15 @@
 
 - **Combating Adversarial Attacks on Deepfake Models: A Comprehensive Study on TAHN** — *ICCTIT'25, Bengaluru*
 - **Transforming Food Waste Management with Blockchain: A Sustainable, Consensus-Driven Framework** — *ICSPBT'24, Muscat, Oman*
+
+---
+
+### 🎓 Certifications
+
+- **SQL (Intermediate)** & **SQL (Basic)** — HackerRank
+- **CSS (Basic)** — HackerRank
+- **Frontend Development Training** — Besant Technologies
+- **SQL Training** — Besant Technologies
 
 ---
 
