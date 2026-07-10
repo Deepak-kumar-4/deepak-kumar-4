@@ -158,6 +158,12 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 </p>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepak-kumar-4/Deepak-kumar-4/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Deepak-kumar-4&label=Profile%20Views&color=0e75b6&style=flat"/>
