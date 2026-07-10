@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-b-dee412)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumarr040302@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakkumarr040302@gmail.com)
 
 </div>
 
@@ -134,19 +135,6 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 - **CSS (Basic)** — HackerRank
 - **Frontend Development** — Besant Technologies
 - **SQL Training** — Besant Technologies
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deepak-kumar-4&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-kumar-4&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-kumar-4&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
