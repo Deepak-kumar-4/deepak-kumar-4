@@ -19,6 +19,15 @@ I'm a Full Stack Developer passionate about building scalable, production-ready 
 
 ---
 
+## 🚀 Currently Working On
+
+• Building scalable, production-ready full stack applications
+
+• Strengthening backend engineering and system design skills
+
+• Learning AI, machine learning, and computer vision to develop intelligent, real-world applications
+
+
 🛠️ Tech Stack
 
 **Languages**<br>
