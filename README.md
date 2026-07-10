@@ -31,25 +31,49 @@ Languages<br>
 
 `VB.NET`
 Frontend
-<img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap,figma&theme=dark" />
+
+
+<img src="https://skillicons.dev/icons?i=react,next,html,css,bootstrap&theme=dark" />
+
+
 Backend & APIs
+
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" />
 
+
 `RESTful APIs` `Authentication` `RBAC`
+
 Databases
+
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 
+
 `Microsoft SQL Server` `SQLite`
+
 AI / ML
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
+
 `OpenCV` `YOLO` `MobileNet-SSD`
+
+
 Tools & Platforms
+
+
 <img src="https://skillicons.dev/icons?i=git,aws,wordpress&theme=dark" />
 
+
 `Xano` `MS Office`
+
+
 Practices
+
+
 `Agile/Scrum` `Sprint Planning` `Code Reviews` `Clean Code` `Problem Solving` `Technical Documentation`
+
 
 **What I do with them:** Full-stack web app development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Agile feature delivery
 
