@@ -2,7 +2,7 @@
 
 # Hi, I'm Deepak Kumar B 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Python+%7C+FastAPI;Building+scalable%2C+production-ready+applications;Open+to+Full+Stack+%2F+Software+%2F+AI/ML+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Python+%7C+FastAPI;Building+scalable%2C+production-ready+applications;Full+Stack+Developer%2F+Software+Engineer%2F+AI-powered+Applications" alt="Typing SVG" />
 
 📍 Bengaluru, India &nbsp;|&nbsp; 🎓 MCA, St Joseph's University &nbsp;|&nbsp; 🟢 Available to join in 15 days
 
@@ -16,9 +16,7 @@
 
 ### 🧭 About Me
 
-Full Stack Developer with hands-on experience building scalable, production-ready web applications from SaaS platforms to AI-integrated systems using React.js, Next.js, Python, and FastAPI. I work across the full stack: frontend interfaces, backend APIs, authentication, and database design, turning product requirements into shipped, working features.
-
-I'm also a published researcher, with papers on adversarial deep learning for deepfake detection and blockchain-based food waste management, I take on independent freelance projects for clients, building and shipping end-to-end. Currently open to Full Stack, Software, or Web Developer roles, with a strong interest in AI/ML-integrated work. Recognized with the "Exemplary Programming Skills" award for strong coding and problem-solving ability.
+I'm a Full Stack Developer who enjoys building products from idea to deployment. I primarily work with React, Next.js, FastAPI, and Python to create scalable web applications. I enjoy solving backend problems, designing APIs, and building clean user experiences. Alongside software engineering, I've worked on AI-powered computer vision projects and published research in deep learning and blockchain.
 
 ---
 
@@ -27,7 +25,7 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 **Languages**<br>
 
 <img src="https://skillicons.dev/icons?i=py,js,java,cpp,c&theme=dark" /> <br>
-`VB.NET`
+
 
 **Frontend**<br>
 
@@ -41,7 +39,7 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 **Databases**<br>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /><br>
-`Microsoft SQL Server` `SQLite`
+
 
 **AI / ML**<br>
 
@@ -57,7 +55,7 @@ I'm also a published researcher, with papers on adversarial deep learning for de
 
 `Agile/Scrum` `Sprint Planning` `Code Reviews` `Clean Code` `Problem Solving` `Technical Documentation`
 
-**What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI/CV integration (YOLO, OpenCV, TensorFlow) · Building Machine Learning Models · Agile feature delivery
+**What I do with them:** Full-stack application development · REST API design · Authentication & RBAC · Database design (SQL & NoSQL) · AI-powered application integration · Agile feature delivery
 
 ---
 
@@ -78,7 +76,7 @@ AI-powered CCTV surveillance system that detects human presence during non-worki
 
 Full-stack SaaS "Soul Relationship Management" platform for churches - member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
 
-**Key highlight:** Owned frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
+**Key highlight:** Implemented frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
 
 
 `Next.js` `React` `TypeScript` `FastAPI` `Xano` 
@@ -87,7 +85,7 @@ Full-stack SaaS "Soul Relationship Management" platform for churches - member jo
 
 
 Full-stack e-commerce platform for a craft supplies store - product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.<br>
-**Key highlight:** Owned the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.<br>
+**Key highlight:** Designed the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.<br>
 
 
 `HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL` `XAMPP`
@@ -96,7 +94,7 @@ Full-stack e-commerce platform for a craft supplies store - product browsing, ca
 
 
 Admin-driven student placement management system with CGPA tracking, company listings, and mock assessments.<br>
-**Key highlight:** Owned backend logic (VB.NET + Microsoft SQL Server) in a 3-person team, covering auth, applications, and admin reporting.<br>
+**Key highlight:** Developed backend logic (VB.NET + Microsoft SQL Server) in a 3-person team, covering auth, applications, and admin reporting.<br>
 
 
 `VB.NET` `PHP` `MySQL` `Microsoft SQL Server`
@@ -116,7 +114,7 @@ Official event website for a 500+ participant inter-collegiate fest.<br>
 
 Built ChurchTalk, a SaaS "Soul Relationship Management" platform for churches, working across 5+ product modules in a 5–6 person Agile team - frontend in Next.js/React, backend APIs in FastAPI, database design, auth, and RBAC.
 
-**Signature moment:** Diagnosed a recurring frontend-backend state sync bug causing UI inconsistencies, then resolved it by restructuring API response handling and modularizing backend logic into smaller service layers.
+**Signature moment:** Resolved complex frontend-backend synchronization issues by redesigning API response handling and modularizing backend services.
 
 **SDE Intern (Full Stack) - Abound Financial Technologies Inc, USA (Remote)** <br>*(Feb 2025 – May 2025)*
 
@@ -126,22 +124,48 @@ Built Faith Finance, a cross-platform personal finance management system for ind
 
 ### 📄 Research Publications
 
-- **Combating Adversarial Attacks on Deepfake Models: A Comprehensive Study on TAHN** — *ICCTIT'25, Bengaluru*
-- **Transforming Food Waste Management with Blockchain: A Sustainable, Consensus-Driven Framework** — *ICSPBT'24, Muscat, Oman*
+
+- **Combating Adversarial Attacks on Deepfake Models: A Comprehensive Study on TAHN**
+  - 📍 ICCTIT'25, Bengaluru
+  - 📄 [Read Paper](https://www.ijmrset.com/upload/175_Combating.pdf)
+
+- **Transforming Food Waste Management with Blockchain: A Sustainable, Consensus-Driven Framework**
+  - 📍 ICSPBT'24, Muscat, Oman
+  - 📄 [Read Chapter](https://link.springer.com/chapter/10.1007/978-3-031-92240-4_77)
 
 ---
 
 ### 🎓 Certifications
 
-- **SQL (Intermediate)** & **SQL (Basic)** — HackerRank
-- **CSS (Basic)** — HackerRank
+- **SQL (Intermediate)** — HackerRank
 - **Frontend Development** — Besant Technologies
 - **SQL Training** — Besant Technologies
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepak-kumar-4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar-4&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deepak-kumar-4&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Deepak-kumar-4&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 <div align="center">
 
-📫 Let's connect — always open to discussing full stack, AI/ML, or freelance opportunities.
+📫 Thanks for stopping by! Feel free to connect if you'd like to discuss software engineering, full stack development, open-source collaboration, or exciting opportunities.
 
 </div>
