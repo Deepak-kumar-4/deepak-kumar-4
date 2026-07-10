@@ -15,7 +15,6 @@
 
 ### 🧭 About Me
 
-
 Full Stack Developer with hands-on experience building scalable, production-ready web applications from SaaS platforms to AI-integrated systems using React.js, Next.js, Python, and FastAPI. I work across the full stack: frontend interfaces, backend APIs, authentication, and database design, turning product requirements into shipped, working features.
 
 I'm also a published researcher, with papers on adversarial deep learning for deepfake detection and blockchain-based food waste management, I take on independent freelance projects for clients, building and shipping end-to-end. Currently open to Full Stack, Software, or Web Developer roles, with a strong interest in AI/ML-integrated work. Recognized with the "Exemplary Programming Skills" award for strong coding and problem-solving ability.
