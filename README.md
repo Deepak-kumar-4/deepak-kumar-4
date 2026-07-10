@@ -64,7 +64,7 @@
 
 ### 📌 Featured Projects
 
-🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**<br>
+🔍 **[Human Presence Detection System](https://github.com/Deepak-kumar-4/Human-Presence-Detection)**
 
 
 AI-powered CCTV surveillance system that detects human presence during non-working hours using YOLO and MobileNet-SSD, with a Flask dashboard for live monitoring and reporting.<br>
@@ -74,18 +74,30 @@ AI-powered CCTV surveillance system that detects human presence during non-worki
 `Python` `YOLO` `OpenCV` `TensorFlow` `Flask` `MySQL`
 
 ⛪ **[ChurchTalk — SRM Platform](https://github.com/Deepak-kumar-4/ChurchTalk-Demo)**<br>
+
+
 Full-stack SaaS "Soul Relationship Management" platform for churches — member journey tracking, automated follow-ups, ministry management, and admin analytics.<br>
 **Key highlight:** Owned frontend and backend delivery across 5+ product modules in a 5–6 person Agile team; diagnosed and fixed a recurring frontend-backend state sync bug by restructuring API response handling.<br>
+
+
 `Next.js` `React` `TypeScript` `FastAPI` `Xano`
 
 🛒 **[CraftSea](https://github.com/Deepak-kumar-4/CraftSea)**<br>
+
+
 Full-stack e-commerce platform for a craft supplies store — product browsing, cart, wishlist, checkout, and an admin dashboard for sales/order reporting.<br>
 **Key highlight:** Owned the entire frontend build end-to-end in a 2-person team, plus contributed backend logic in PHP.<br>
+
+
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 🎓 **[Campus PlaceVerse](https://github.com/Deepak-kumar-4/Campus-PlaceVerse)**<br>
+
+
 Admin-driven student placement management system with CGPA tracking, company listings, and mock assessments.<br>
 **Key highlight:** Owned backend logic (VB.NET + Microsoft SQL Server) in a 3-person team, covering auth, applications, and admin reporting.<br>
+
+
 `VB.NET` `Microsoft SQL Server`
 
 🌐 **[Syntaxia'24](https://nosfeeferatu.github.io/syntaxia-site/)**<br>
